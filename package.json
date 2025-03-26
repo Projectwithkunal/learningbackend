@@ -1,0 +1,17 @@
+{
+  "name": "javascriptbackend",
+  "version": "1.0.0",
+  "description": "a basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Kunal Kulkarni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
